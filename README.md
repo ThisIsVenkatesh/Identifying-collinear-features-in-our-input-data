@@ -1,2 +1,3 @@
-# Identifying-collinear-features-in-our-input-data
-Identifying collinear features in our input data
+In statistics, multicollinearity (also collinearity) is a phenomenon in which one predictor variable in a multiple regression model can be linearly predicted from the others with a substantial degree of accuracy. 
+
+Having multicollinearity in our input data can give insignificant regression coefficients for the affected variables in the multiple regression. So indentifying the variables which are linearly related to each other and removing the effected variables is important in the multiple regression problem. Here I've implimeted few methods to identify the linearly related variables. Have a look.
